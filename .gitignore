@@ -2,3 +2,6 @@
 __pycache__/
 .streamlit/secrets.toml
 actions.json
+.idea/
+.claude/
+retail_dashboard_export.xlsx
