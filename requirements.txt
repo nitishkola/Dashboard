@@ -1,0 +1,10 @@
+streamlit>=1.51
+pandas
+numpy
+plotly
+prophet
+openpyxl  # for Excel support
+google-genai>=2.33  # Gemini (free tier, default AI)
+anthropic>=2.3  # Claude (optional, paid)
+pillow  # promotion posters
+gTTS  # optional: voice notes for the daily brief
